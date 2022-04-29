@@ -4,4 +4,4 @@
 - 💞️ Aceito sua colaboração e opinião em meus projetos.
 - 📫 Encontre-me no e-mail stefanodasilva@yahoo.com.br ou no Discord Avalox#2260 - Aguardo seu contato.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanobarcellos&layout=compact)](https://github.com/stefanobarcellos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
