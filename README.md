@@ -1,4 +1,4 @@
-- 👋 Olá, minha id é @stefanobarcellos - inclusive nas redes sociais. Também conhecido como Avalox BR.
+- 👋 Olá, minha id é @stefanobarcellos - inclusive nas redes sociais.
 - 👀 Estou interessado em desenvolvimento Android.
 - 🌱 Estou sempre estudando sobre desenvolvimento Web e Android.
 - 💞️ Aceito sua colaboração e opinião em meus projetos.
